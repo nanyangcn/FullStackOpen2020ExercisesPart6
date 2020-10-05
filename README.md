@@ -1,1 +1,0 @@
-# FullStackOpen2020ExercisesPart6
